@@ -9,6 +9,7 @@ technical debt.
 
 1. [Naming conventions](./clean-code-solid/src/clean-code/01-names.ts)
 2. [Name Types](./clean-code-solid/src/clean-code/02-name-types.ts)
+3. [Naming functions](./clean-code-solid/src/clean-code/03-functions.ts)
 
 ## References
 - [Clean Javascript](https://cleanjavascript.es/)
