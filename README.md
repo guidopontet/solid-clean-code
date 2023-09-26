@@ -12,6 +12,7 @@ technical debt.
 3. [Naming functions](./clean-code-solid/src/clean-code/03-functions.ts)
 4. [Refactoring functions avoid else statement](./clean-code-solid/src/clean-code/04-refactoring-functions-avoid-else.ts)
 5. [DRY](./clean-code-solid/src/clean-code/05-dry.ts)
+6. [Single Responsibility Principle](./clean-code-solid/src/clean-code/06-classes-c.ts)
 
 ## References
 - [Clean Javascript](https://cleanjavascript.es/)
