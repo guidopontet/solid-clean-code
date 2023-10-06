@@ -15,16 +15,16 @@ technical debt.
 6. [Single Responsibility Principle](./src/clean-code/06-classes-c.ts)
 7. [Single Responsibility Principle - Composition over
    inheritance](./src/clean-code/07-single-responsability-principle.ts)
-8. STUPID - Code Smells
 
-    - [Singleton](./src/code-smells/01-singleton.js)
-    - Tight coupling:
+### STUPID - Code Smells
+  1. [Singleton](./src/code-smells/01-singleton.js)
+  2. Tight coupling:
       - [High coupling](./src/code-smells/02-high-coupling.ts)
       - [Low coupling](./src/code-smells/02-low-coupling.ts)
-    - Untestability
-    - Premature Optimization
-    - Indescriptive Naming
-    - Duplication (no DRY)
+  3. Untestability
+  4. Premature Optimization
+  5. Indescriptive Naming
+  6. Duplication (no DRY)
 
 ## References
 - [Clean Javascript](https://cleanjavascript.es/)
