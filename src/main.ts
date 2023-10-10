@@ -1,5 +1,5 @@
 import './style.css'
-import './solid/01-single-responsability-principle'
+import './solid/02-open-closed-principle-a'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 

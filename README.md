@@ -37,6 +37,14 @@ technical debt.
     - Cantidad elevada de métodos públicos.
     - Cantidad excesiva de líneas de código.
 
+  2. [Open Closed Principle](./src/solid/02-open-closed-principle-a.ts)
+
+    Comunmente se utiliza junto a un Adapter Pattern.
+
+    Indicios de violaciones:
+    - Cambios usualmente afectan nuestra clase o módulo.
+    - Cuando una clase o módulo afecta muchas layers (storage, presentación, etc.).
+
 ## References
 - [Clean Javascript](https://cleanjavascript.es/)
 - [Refactoring Guru](https://refactoring.guru/)
