@@ -17,6 +17,7 @@ technical debt.
    inheritance](./src/clean-code/07-single-responsability-principle.ts)
 
 ### STUPID - Code Smells
+
   1. [Singleton](./src/code-smells/01-singleton.js)
   2. Tight coupling:
       - [High coupling](./src/code-smells/02-high-coupling.ts)
@@ -25,6 +26,16 @@ technical debt.
   4. Premature Optimization
   5. Indescriptive Naming
   6. Duplication (no DRY)
+
+### SOLID
+
+  1. [Single Responsability Principle](./src/solid/01-single-responsability-principle.ts)
+
+    Indicios de violaciones:
+    - Nombres de clases o módulos demasiado genéricos.
+    - Cambios en el código suelen afectar la clase o módulo.
+    - Cantidad elevada de métodos públicos.
+    - Cantidad excesiva de líneas de código.
 
 ## References
 - [Clean Javascript](https://cleanjavascript.es/)
