@@ -1,5 +1,5 @@
 import './style.css'
-import './solid/02-open-closed-principle-a'
+import './solid/03-liskov-substitution-principle-a'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
