@@ -3,9 +3,7 @@
 The main goal of this repository, is to have shortcut knowledges and principles to mitigate or reduce
 technical debt.
 
-## Content
-
-### Clean Code
+## 📍Clean Code
 
 1. [Naming conventions](./src/clean-code/01-names.ts)
 2. [Name Types](./src/clean-code/02-name-types.ts)
@@ -16,7 +14,7 @@ technical debt.
 7. [Single Responsibility Principle - Composition over
    inheritance](./src/clean-code/07-single-responsability-principle.ts)
 
-### STUPID - Code Smells
+## 📍 STUPID - Code Smells
 
   1. [Singleton](./src/code-smells/01-singleton.js)
   2. Tight coupling:
@@ -27,7 +25,7 @@ technical debt.
   5. Indescriptive Naming
   6. Duplication (no DRY)
 
-### SOLID
+## 📍 SOLID
 
   1. [Single Responsability Principle](./src/solid/01-single-responsability-principle.ts)
 
