@@ -63,6 +63,15 @@ technical debt.
       - Cuando una clase hija no puede ser sustituida por la clase padre.
       - Cuando una clase hija no puede implementar un método de la clase padre.
 
+  4. [Interface Segregation Principle](./src/solid/04-interface-segregation-principle-a.ts)
+
+  Los clientes no deben ser forzados a depender de interfaces que no usan.
+
+    Indicios de violaciones:
+
+      - Cuando una clase implementa una interfaz que no usa.
+      - Está relacionado con el principio de responsabilidad única y con el principio de sustitución de Liskov.
+
 ## References
 - [Clean Javascript](https://cleanjavascript.es/)
 - [Refactoring Guru](https://refactoring.guru/)
