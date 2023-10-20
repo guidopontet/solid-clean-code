@@ -72,7 +72,7 @@ technical debt.
       - Cuando una clase implementa una interfaz que no usa.
       - Está relacionado con el principio de responsabilidad única y con el principio de sustitución de Liskov.
 
-## References
+## 📔 References
 - [Clean Javascript](https://cleanjavascript.es/)
 - [Refactoring Guru](https://refactoring.guru/)
 - [Clean Code Javascript Repo](https://github.com/ryanmcdermott/clean-code-javascript)
