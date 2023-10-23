@@ -70,6 +70,19 @@ technical debt.
       - Cuando una clase implementa una interfaz que no usa.
       - Está relacionado con el principio de responsabilidad única y con el principio de sustitución de Liskov.
 
+  5. [Dependency inversion Principle](./src/solid/05-dependency-a.ts)
+
+  Los módulos de alto nivel no deben depender de módulos de bajo nivel. Ambos deben
+  depender de **abstracciones**, que son las que vamos a utilizar en los lugares dónde
+  necesitemos la implementación concreta.
+
+  Se suele utilizar la **inyección de dependencias** para cumplir con este principio, a su
+  vez que se cumple con el principio de **open and closed**, y con la **Sustitución de Liskov**.
+
+    Indicios de violaciones:
+
+      - Dependencias ocultas, es decir, cuando una clase crea una instancia de otra clase dentro de un método. Suele resolverse con inyección de dependencias.
+
 ## 📔 References
 - [Clean Javascript](https://cleanjavascript.es/)
 - [Refactoring Guru](https://refactoring.guru/)
